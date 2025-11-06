@@ -114,9 +114,6 @@ Protótipo web com fins educacionais para projeto da faculdade
 <br/>
 <br/><br/>
 <br/>
-<br/><br/>
-<br/>
-<br/>
 
 🚀 Sobre mim
 
