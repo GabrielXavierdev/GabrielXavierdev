@@ -70,7 +70,9 @@ Aqui estão alguns dos projetos que mais representam minhas habilidades e intere
 🚀 Portfolio Pessoal
 
 Um site responsivo desenvolvido com HTML, CSS e JavaScript, apresentando meus projetos, contatos e trajetória profissional.
+<br/>
 📱 Tecnologias: HTML, CSS, JavaScript
+<br/>
 ⭐ Destaque: Design moderno e responsivo
 
 🧠 Sistema de gerenciamento de oficina
