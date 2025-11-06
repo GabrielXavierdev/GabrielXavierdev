@@ -71,6 +71,7 @@ Aqui estão alguns dos projetos que mais representam minhas habilidades e intere
 
 Um site responsivo desenvolvido com HTML, CSS e JavaScript, apresentando meus projetos, contatos e trajetória profissional.
 <br/>
+<br/>
 📱 Tecnologias: HTML, CSS, JavaScript
 <br/>
 ⭐ Destaque: Design moderno e responsivo
@@ -78,13 +79,18 @@ Um site responsivo desenvolvido com HTML, CSS e JavaScript, apresentando meus pr
 🧠 Sistema de gerenciamento de oficina
 
 Aplicação web para gerenciamento de oficinas com persistência de dados.
-⚙️ Tecnologias: Python (Flask), SQLite, TempletesJinjas, Css e Javascript
+<br/>
+<br/>
+⚙️ Tecnologias: Python (Flask), SQLite, TempletesJinjas, Css e Javascript<br/>
 📋 Destaque: CRUD completo
 
 📚 Protótipo de reformualação de livraria
 
 Protótipo web com fins educacionais para projeto da faculdade
+<br/>
+<br/>
 📱 Tecnologias: HTML, CSS, JavaScript
+<br/>
 ⭐ Destaque: Design moderno e responsivo
 
 ### 📊 Estatísticas
