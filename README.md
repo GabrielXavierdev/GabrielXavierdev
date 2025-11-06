@@ -105,6 +105,11 @@ Protótipo web com fins educacionais para projeto da faculdade
 
 </p>
 
+
+<br/>
+<br/>
+<br/>
+
 🚀 Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
