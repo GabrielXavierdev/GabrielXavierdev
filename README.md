@@ -21,6 +21,14 @@ Busco constantemente aprimorar minhas habilidades técnicas e contribuir com pro
             src="https://custom-icon-badges.demolab.com/github/followers/GabrielXavierdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+        </a>
+    <a href="(https://www.linkedin.com/in/gabrielxavierdev/)">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/github/followers/GabrielXavierdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
