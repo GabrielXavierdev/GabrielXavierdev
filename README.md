@@ -124,5 +124,3 @@ Protótipo web com fins educacionais para projeto da faculdade
 <p align="left"> <a href="xavier.dev10@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-ff4c4c?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/gabrielxavierdev/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
 💬 "A tecnologia é a ponte entre ideias e impacto real."    
-
-![snake gif](https://github.com/GabrielXavierdev/GabrielXavierdev/blob/output/github-contribution-grid-snake.svg)
