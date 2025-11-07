@@ -84,7 +84,10 @@ Aplicação web para gerenciamento de oficinas com persistência de dados.
 ⚙️ Tecnologias: Python (Flask), SQLite, TempletesJinjas, Css e Javascript<br/>
 📋 Destaque: CRUD completo
 
-📚 <a href="https://github.com/GabrielXavierdev/LivrariaHorizonte" style="color: blue; text-decoration: none;"> Protótipo de reformualação de livraria </a>
+📚 <a href="https://github.com/GabrielXavierdev/LivrariaHorizonte"
+   style="color: blue; text-decoration: none !important;">
+   Protótipo de reformulação de livraria
+</a>
 
 Protótipo web com fins educacionais para projeto da faculdade
 <br/>
