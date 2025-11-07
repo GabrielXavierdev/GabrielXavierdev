@@ -85,9 +85,10 @@ Aplicação web para gerenciamento de oficinas com persistência de dados.
 📋 Destaque: CRUD completo
 
 📚 <a href="https://github.com/GabrielXavierdev/LivrariaHorizonte"
-   style="color: red; text-decoration: none !important;">
+   style="color: blue; text-decoration: none !important;">
    Protótipo de reformulação de livraria
 </a>
+
 
 Protótipo web com fins educacionais para projeto da faculdade
 <br/>
