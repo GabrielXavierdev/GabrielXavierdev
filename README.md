@@ -67,22 +67,6 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na Faculdade de Ciênci
 Aqui estão alguns dos projetos que mais representam minhas habilidades e interesses.
 (Clique nos títulos para acessar os repositórios!)
 
-🚀 Portfolio Pessoal
-
-Um site responsivo desenvolvido com HTML, CSS e JavaScript, apresentando meus projetos, contatos e trajetória profissional.
-<br/>
-<br/>
-📱 Tecnologias: HTML, CSS, JavaScript
-<br/>
-⭐ Destaque: Design moderno e responsivo
-
-🧠 Sistema de gerenciamento de oficina
-
-Aplicação web para gerenciamento de oficinas com persistência de dados.
-<br/>
-<br/>
-⚙️ Tecnologias: Python (Flask), SQLite, TempletesJinjas, Css e Javascript<br/>
-📋 Destaque: CRUD completo
 
 📚 <a href="https://github.com/GabrielXavierdev/LivrariaHorizonte"
    style="color: blue; text-decoration: none !important;">
