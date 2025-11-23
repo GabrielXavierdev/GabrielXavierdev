@@ -67,9 +67,18 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na Faculdade de Ciênci
 Aqui estão alguns dos projetos que mais representam minhas habilidades e interesses.
 (Clique nos títulos para acessar os repositórios!)
 
+🚀 <a href="#" style="color: blue;"> Portfolio Pessoal </a>
+
+Um site responsivo desenvolvido com HTML, CSS e JavaScript, apresentando meus projetos, contatos e trajetória profissional.
+<br/>
+<br/>
+📱 Tecnologias: HTML, CSS, JavaScript
+<br/>
+⭐ Destaque: Design moderno e responsivo
+
 
 📚 <a href="https://github.com/GabrielXavierdev/LivrariaHorizonte"
-   style="color: blue; text-decoration: none !important;">
+   style="color: blue;">
    Protótipo de reformulação de livraria
 </a>
 
