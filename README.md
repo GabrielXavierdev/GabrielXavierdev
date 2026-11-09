@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack | Estudante ADS`**
 
 Olá! 👋
-Sou Gabriel Xavier, tenho 20 anos e sou de Recife (PE).
+Sou Gabriel Xavier, tenho 21 anos e sou de Recife (PE).
 Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades técnicas.
 
 Atualmente, curso Análise e Desenvolvimento de Sistemas na Faculdade de Ciências Humanas Esuda e gosto de transformar ideias em soluções práticas e eficientes por meio da programação. 🚀
